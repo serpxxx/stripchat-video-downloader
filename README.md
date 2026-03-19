@@ -139,19 +139,19 @@ Start here: [https://serp.ly/stripchat-video-downloader](https://serp.ly/stripch
 
 ## FAQ
 
-**Can I record Stripchat live streams?**  
+**Can I record Stripchat live streams**  
 Yes. Active Stripchat live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too?**  
+**Can I download saved videos too**  
 Yes. The extension supports saved Stripchat videos on supported pages.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a STRIPCHAT subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes
