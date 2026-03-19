@@ -12,15 +12,15 @@ Stripchat Downloader is a browser extension built for users who want a cleaner w
 
 ## Links
 
-- 🚀 Get it here: [Stripchat Downloader](https://serp.ly/stripchat-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/stripchat-video-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/stripchat-video-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/stripchat-video-downloader/issues)
+- :rocket: Get it here: [Stripchat Downloader](https://serp.ly/stripchat-video-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/stripchat-video-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/stripchat-video-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/stripchat-video-downloader/issues)
 
 ## Preview
 
-![Stripchat Downloader workflow preview](assets/workflow-preview.svg)
+![Stripchat Downloader workflow preview](images/stripchat-video-downloader.gif)
 
 ## Table of Contents
 
