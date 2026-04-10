@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Stripchat Video Downloader gives creators and teams a dependable way to save Stripchat videos instantly for offline viewing. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Stripchat with consistent quality and predictable results.\n\nIt supports And record live cam performances, Private shows and exclusive content, and Auto quality adjustment and optimization, so you can move quickly from download to delivery without tedious rework. Use it to archive Stripchat assets, prep client deliverables, or keep your library accessible when connectivity is limited.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "stripchat-video-downloader",
+  "readme": "../README.md",
+  "title": "Stripchat Video Downloader",
+  "version": "0.0"
+}
