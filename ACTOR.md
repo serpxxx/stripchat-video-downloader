@@ -1,6 +1,10 @@
-# Stripchat Downloader
+# Stripchat Video Downloader | How to Download Stripchat Videos
 
 > Record Stripchat live streams and download saved videos as MP4 files for offline viewing.
+
+## Get it Here
+
+Get it here: https://serp.ly/stripchat-video-downloader
 
 ![Stripchat Video Downloader](https://raw.githubusercontent.com/serpxxx/stripchat-video-downloader/main/images/stripchat-video-downloader.gif)
 
@@ -11,11 +15,6 @@ Stripchat Downloader is a browser extension built for users who want a cleaner w
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
 - Use in-page controls, popup controls, or right-click actions
-
-## Get it Here
-
-Get it here: https://serp.ly/stripchat-video-downloader
-
 ## Table of Contents
 
 - [Why Stripchat Downloader](#why-stripchat-downloader)
